@@ -15,13 +15,8 @@
       <pubDate>Sat, 15 Aug 2015 14:12:48 -0300</pubDate>
       
       <guid>http://www.nicolabernardelli.com/Gallery/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be hopefully adding video clips soon enough. Admittedly, I don&amp;rsquo;t record audio-video myself during gigs, and fragments selected by others are often not my moments of choice.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;You can click on any of the thumbs&lt;/strong&gt; to activate a responsive gallery supporting mouse or touch screen drag, and featuring its own thumbs line.&lt;/p&gt;
 
-&lt;p&gt;Besides, recording trumpet and flügelhorn from far away doesn&amp;rsquo;t usually render a sound I like&amp;hellip; or worse&amp;hellip; One day I made this test before a rehearsal of &lt;strong&gt;&lt;em&gt;&amp;ldquo;Cuatrix&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Jazz Y Pop&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, with high end audio equipment: I played a few long notes in the mic over a play-a-long CD, checking that it sounded right (and watching the pitch on a chromatic tuner), while recording with just a small recorder placed far away in the room. Listening to the recorded clip, the trumpet sounded out of tune. Others were listening in both moments, &amp;ldquo;live&amp;rdquo; and playback, and were surprised, but not me.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;You can click on any of the thumbs&lt;/strong&gt; to activate a responsive gallery supporting mouse or touch screen drag, and featuring its own thumbs line.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
 &lt;ul id=&#34;light-gallery&#34;&gt;
   &lt;li data-src=&#34;/img/0005-Cuatrix-2014-12-09-TeatroSanMartin-Homenaje-a-JorgeNegroGonzalez.jpg&#34;&gt;
     &lt;img src=&#34;http://www.nicolabernardelli.com/img/thumbs/0005-Cuatrix-2014-12-09-TeatroSanMartin-Homenaje-a-JorgeNegroGonzalez.jpg&#34;&gt;
@@ -50,13 +45,18 @@
   &lt;li data-src=&#34;/img/0045-NicolaBernardelli.jpg&#34;&gt;
     &lt;img src=&#34;http://www.nicolabernardelli.com/img/thumbs/0045-NicolaBernardelli.jpg&#34;&gt;
   &lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
+&lt;/ul&gt;
 
-&lt;script type=&#34;text/javascript&#34;&gt;
+&lt;p&gt;&lt;script type=&#34;text/javascript&#34;&gt;
   $(document).ready(function() {
-    $(&#34;#light-gallery&#34;).lightGallery();
+    $(&amp;ldquo;#light-gallery&amp;rdquo;).lightGallery();
   });
 &lt;/script&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll be hopefully adding &lt;strong&gt;video clips&lt;/strong&gt; soon enough. Admittedly, I don&amp;rsquo;t record audio-video myself during gigs, and fragments selected by others are often not my moments of choice.&lt;/p&gt;
+
+&lt;p&gt;Besides, recording trumpet and flügelhorn from far away doesn&amp;rsquo;t usually render a sound I like&amp;hellip; or worse&amp;hellip; One day I made this test before a rehearsal of &lt;strong&gt;&lt;em&gt;&amp;ldquo;Cuatrix&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Jazz Y Pop&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, with high end audio equipment: I played a few long notes in the mic over a play-a-long CD, checking that it sounded right (and watching the pitch on a chromatic tuner), while recording with just a small recorder placed far away in the room. Listening to the recorded clip, the trumpet sounded out of tune. Others were listening in both moments, &amp;ldquo;live&amp;rdquo; and playback, and were surprised, but not me.&lt;/p&gt;
 </description>
     </item>
     
