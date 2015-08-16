@@ -47,16 +47,17 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;script type=&#34;text/javascript&#34;&gt;
-  $(document).ready(function() {
-    $(&amp;ldquo;#light-gallery&amp;rdquo;).lightGallery();
-  });
-&lt;/script&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ll be hopefully adding &lt;strong&gt;video clips&lt;/strong&gt; soon enough. Admittedly, I don&amp;rsquo;t record audio-video myself during gigs, and fragments selected by others are often not my moments of choice.&lt;/p&gt;
 
 &lt;p&gt;Besides, recording trumpet and flügelhorn from far away doesn&amp;rsquo;t usually render a sound I like&amp;hellip; or worse&amp;hellip; One day I made this test before a rehearsal of &lt;strong&gt;&lt;em&gt;&amp;ldquo;Cuatrix&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Jazz Y Pop&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, with high end audio equipment: I played a few long notes in the mic over a play-a-long CD, checking that it sounded right (and watching the pitch on a chromatic tuner), while recording with just a small recorder placed far away in the room. Listening to the recorded clip, the trumpet sounded out of tune. Others were listening in both moments, &amp;ldquo;live&amp;rdquo; and playback, and were surprised, but not me.&lt;/p&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+  $(document).ready(function() {
+    $(&#34;#light-gallery&#34;).lightGallery();
+  });
+&lt;/script&gt;
 </description>
     </item>
     
