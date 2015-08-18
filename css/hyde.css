@@ -53,24 +53,12 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
-.padded {padding-top: 1rem; padding-bottom: 1rem;}
-
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-
-.sidebar-pow-item {
-  background-color: #202020;
-}
-
-.sidebar-pow {
-  border: 1 px solid #202020;
-  border-collapse: collapse;
-}
-
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -154,6 +142,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.padded {padding-top: 1rem; padding-bottom: 1rem;}
 
 /*
  * Reverse layout
