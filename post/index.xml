@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
-    <link>http://localhost:58551/</link>
-    <description>Recent content on Home</description>
+    <title>Posts on Home</title>
+    <link>http://localhost:58551/post/</link>
+    <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:58551/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>about</title>
-      <link>http://localhost:58551/about/</link>
-      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:58551/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;about-us:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;about us&lt;/h1&gt;
-
-&lt;p&gt;i&amp;rsquo;m speechless&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://localhost:58551/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>second</title>
