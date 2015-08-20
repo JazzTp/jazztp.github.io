@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ens on Blog</title>
-    <link>http://www.nicolabernardelli.com/en/</link>
-    <description>Recent content in Ens on Blog</description>
+    <title>Es on Blog</title>
+    <link>http://www.nicolabernardelli.com/es/</link>
+    <description>Recent content in Es on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Aug 2015 18:17:50 -0300</lastBuildDate>
-    <atom:link href="http://www.nicolabernardelli.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.nicolabernardelli.com/es/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Stainless steel</title>
-      <link>http://www.nicolabernardelli.com/en/post/stainless-steel/</link>
+      <title>Acero inoxidable</title>
+      <link>http://www.nicolabernardelli.com/es/post/acero-inoxidable/</link>
       <pubDate>Tue, 18 Aug 2015 18:17:50 -0300</pubDate>
       
-      <guid>http://www.nicolabernardelli.com/en/post/stainless-steel/</guid>
+      <guid>http://www.nicolabernardelli.com/es/post/acero-inoxidable/</guid>
       <description>&lt;p&gt;&lt;strong&gt;:)&lt;/strong&gt; Nestor is fine, the surgery was a success.&lt;/p&gt;
 
 &lt;p&gt;Carola tells us that he entered the operating room as &lt;em&gt;up&lt;/em&gt;, &lt;em&gt;&amp;ldquo;arriba&amp;rdquo;&lt;/em&gt; as he was when I saw him last Sunday&amp;hellip; &lt;strong&gt;stainless steel character indeed!&lt;/strong&gt;&lt;/p&gt;
@@ -24,23 +24,23 @@
     </item>
     
     <item>
-      <title>Powered by...</title>
-      <link>http://www.nicolabernardelli.com/en/powered-by/</link>
+      <title>Motorizado por...</title>
+      <link>http://www.nicolabernardelli.com/es/motorizado-por/</link>
       <pubDate>Mon, 17 Aug 2015 16:55:33 -0300</pubDate>
       
-      <guid>http://www.nicolabernardelli.com/en/powered-by/</guid>
+      <guid>http://www.nicolabernardelli.com/es/motorizado-por/</guid>
       <description>&lt;p&gt;&lt;br&gt;
-&lt;table style=&#34;text-align: center;&#34;&gt;&lt;tr&gt;&lt;th colspan=&#34;2&#34; class=&#34;padded&#34;&gt;This website is powered by&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/td&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/zyro/hyde-x&#34; target=&#34;_blank&#34;&gt;Hyde-X&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;http://disqus.com&#34; target=&#34;_blank&#34;&gt;DISQUS&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/sachinchoolur/lightGallery&#34; target=&#34;_blank&#34;&gt;jQuery lightGallery&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table style=&#34;text-align: center;&#34;&gt;&lt;tr&gt;&lt;th colspan=&#34;2&#34; class=&#34;padded&#34;&gt;Este sitio web es motorizado por&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/td&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/zyro/hyde-x&#34; target=&#34;_blank&#34;&gt;Hyde-X&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;http://disqus.com&#34; target=&#34;_blank&#34;&gt;DISQUS&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/sachinchoolur/lightGallery&#34; target=&#34;_blank&#34;&gt;jQuery lightGallery&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://www.nicolabernardelli.com/en/contact/</link>
+      <title>Contacto</title>
+      <link>http://www.nicolabernardelli.com/es/contacto/</link>
       <pubDate>Mon, 17 Aug 2015 12:39:23 -0300</pubDate>
       
-      <guid>http://www.nicolabernardelli.com/en/contact/</guid>
+      <guid>http://www.nicolabernardelli.com/es/contacto/</guid>
       <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;e-mail: &lt;script type=&#34;text/javascript&#34;&gt;&lt;!--
 var rmtjoxz = [&#39;m&#39;,&#39;o&#39;,&#39;a&#39;,&#39;:&#39;,&#39;c&#39;,&#39;r&#39;,&#39;i&#39;,&#39;m&#39;,&#39;o&#39;,&#39;=&#39;,&#39;f&#39;,&#39; &#39;,&#39;i&#39;,&#39;a&#39;,&#39;g&#39;,&#39;m&#39;,&#39;&gt;&#39;,&#39;t&#39;,&#39;.&#39;,&#39;u&#39;,&#39;o&#39;,&#39;m&#39;,&#39;&gt;&#39;,&#39;&#34;&#39;,&#39;c&#39;,&#39;m&#39;,&#39;i&#39;,&#39;s&#39;,&#39;a&#39;,&#39;l&#39;,&#39;h&#39;,&#39;a&#39;,&#39;a&#39;,&#39;a&#39;,&#39;n&#39;,&#39;c&#39;,&#39;m&#39;,&#39;m&#39;,&#39;s&#39;,&#39;e&#39;,&#39;b&#39;,&#39;&#34;&#39;,&#39;l&#39;,&#39;s&#39;,&#39;@&#39;,&#39;i&#39;,&#39;a&#39;,&#39;=&#39;,&#39; &#39;,&#39;.&#39;,&#39;&lt;&#39;,&#39;u&#39;,&#39;/&#39;,&#39;l&#39;,&#39;i&#39;,&#39;b&#39;,&#39;a&#39;,&#39;n&#39;,&#39;&#34;&#39;,&#39;c&#39;,&#39;.&#39;,&#39;c&#39;,&#39;g&#39;,&#39;l&#39;,&#39;m&#39;,&#39;&lt;&#39;,&#39;b&#39;,&#39;&#34;&#39;,&#39;s&#39;,&#39;i&#39;,&#39;e&#39;,&#39;a&#39;,&#39;@&#39;,&#39;b&#39;,&#39;l&#39;,&#39;.&#39;];var vlhtqwo = [71,34,47,15,60,4,59,20,70,43,6,37,30,25,63,64,51,13,32,21,14,28,75,36,33,35,11,58,29,31,3,1,65,61,52,24,9,46,42,45,17,44,12,41,62,66,74,7,2,55,72,57,73,39,48,54,40,16,8,69,19,38,27,49,56,0,53,50,22,23,5,10,26,18,67,68];var rpammik= new Array();for(var i=0;i&lt;vlhtqwo.length;i++){rpammik[vlhtqwo[i]] = rmtjoxz[i]; }for(var i=0;i&lt;rpammik.length;i++){document.write(rpammik[i]);}
@@ -54,11 +54,11 @@ var rmtjoxz = [&#39;m&#39;,&#39;o&#39;,&#39;a&#39;,&#39;:&#39;,&#39;c&#39;,&#39;
     </item>
     
     <item>
-      <title>Cajón unplugged</title>
-      <link>http://www.nicolabernardelli.com/en/post/cajon-unplugged/</link>
+      <title>Cajón peruano &#34;unplugged&#34;</title>
+      <link>http://www.nicolabernardelli.com/es/post/cajon-peruano-unplugged/</link>
       <pubDate>Sun, 16 Aug 2015 16:13:18 -0300</pubDate>
       
-      <guid>http://www.nicolabernardelli.com/en/post/cajon-unplugged/</guid>
+      <guid>http://www.nicolabernardelli.com/es/post/cajon-peruano-unplugged/</guid>
       <description>&lt;p&gt;I have just arrived from the hospital and I can confirm that Nestor&amp;rsquo;s mood is &lt;em&gt;quite fine&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;He &lt;strong&gt;unplugged&lt;/strong&gt; himself from the monitoring system, he grabbed a wood box very similar to a &lt;strong&gt;&amp;ldquo;cajón&amp;rdquo;&lt;/strong&gt; (&lt;a href=&#34;https://en.wikipedia.org/wiki/Caj%C3%B3n&#34; target=&#34;_blank&#34;&gt;Wikipedia article&lt;/a&gt;) and started playing sitting on it.&lt;/p&gt;
@@ -78,11 +78,11 @@ var rmtjoxz = [&#39;m&#39;,&#39;o&#39;,&#39;a&#39;,&#39;:&#39;,&#39;c&#39;,&#39;
     </item>
     
     <item>
-      <title>Gallery</title>
-      <link>http://www.nicolabernardelli.com/en/gallery/</link>
+      <title>Galería</title>
+      <link>http://www.nicolabernardelli.com/es/galeria/</link>
       <pubDate>Sat, 15 Aug 2015 14:12:48 -0300</pubDate>
       
-      <guid>http://www.nicolabernardelli.com/en/gallery/</guid>
+      <guid>http://www.nicolabernardelli.com/es/galeria/</guid>
       <description>&lt;p&gt;&lt;strong&gt;You can click on any of the thumbnails&lt;/strong&gt; to activate an interactive gallery, then &lt;strong&gt;grab left-right&lt;/strong&gt; to slide images, &lt;strong&gt;or&lt;/strong&gt; use the &lt;strong&gt;arrow buttons&lt;/strong&gt; on the screen or on your keyboard.&lt;/p&gt;
 
 &lt;ul id=&#34;light-gallery&#34;&gt;
@@ -130,11 +130,11 @@ var rmtjoxz = [&#39;m&#39;,&#39;o&#39;,&#39;a&#39;,&#39;:&#39;,&#39;c&#39;,&#39;
     </item>
     
     <item>
-      <title>Heart attack</title>
-      <link>http://www.nicolabernardelli.com/en/post/heart-attack/</link>
+      <title>Infarto</title>
+      <link>http://www.nicolabernardelli.com/es/post/infarto/</link>
       <pubDate>Thu, 13 Aug 2015 13:58:23 -0300</pubDate>
       
-      <guid>http://www.nicolabernardelli.com/en/post/heart-attack/</guid>
+      <guid>http://www.nicolabernardelli.com/es/post/infarto/</guid>
       <description>&lt;p&gt;This &lt;em&gt;Blog&lt;/em&gt; starts with a heart attack. &lt;strong&gt;Nestor Astarita&lt;/strong&gt;, drummer and leader of the &lt;strong&gt;Tribute to Miles Davis and Astor Piazzolla&lt;/strong&gt; project, has just suffered one.&lt;/p&gt;
 
 &lt;p&gt;Why not &amp;ldquo;sadly&amp;rdquo;? Because, even under this circumstance, «He&amp;rsquo;s as &lt;em&gt;up&lt;/em&gt;, &lt;em&gt;&amp;ldquo;arriba&amp;rdquo;&lt;/em&gt;, as he always is». Carola Faverio, his life mate, transmits news to us, we are not allowed to visit him.&lt;/p&gt;
@@ -160,24 +160,24 @@ var rmtjoxz = [&#39;m&#39;,&#39;o&#39;,&#39;a&#39;,&#39;:&#39;,&#39;c&#39;,&#39;
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://www.nicolabernardelli.com/en/about/</link>
+      <title>Acerca</title>
+      <link>http://www.nicolabernardelli.com/es/acerca/</link>
       <pubDate>Wed, 05 Aug 2015 14:00:08 -0300</pubDate>
       
-      <guid>http://www.nicolabernardelli.com/en/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Nicola Benedetto Bernardelli&lt;/strong&gt; started his musical education at the age of 4: &lt;strong&gt;&lt;em&gt;&amp;ldquo;Choir with instrumental accompaniment&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;. At 6 he started &lt;strong&gt;&lt;em&gt;classical guitar&lt;/em&gt;&lt;/strong&gt; with &lt;em&gt;Maestro&lt;/em&gt; &lt;strong&gt;Alessandro Bono&lt;/strong&gt;. He was member of &lt;strong&gt;&lt;em&gt;two international awards winning orchestras&lt;/em&gt;&lt;/strong&gt;, the youth ensamble &lt;strong&gt;&lt;em&gt;&amp;ldquo;Gioietta Paoli Padova&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; and the &lt;strong&gt;&amp;ldquo;Orchestra di Musica da Camera a Pizzico Citt&amp;agrave; di Brescia&amp;rdquo;&lt;/strong&gt;. He took harmony classes with &lt;em&gt;Maestro&lt;/em&gt; &lt;strong&gt;Claudio Mandonico&lt;/strong&gt;. At 14 he started to play &lt;strong&gt;&lt;em&gt;trumpet&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;flugelhorn&lt;/em&gt;&lt;/strong&gt;. He attended during two years the &lt;strong&gt;&lt;em&gt;jazz course&lt;/em&gt;&lt;/strong&gt; of &lt;strong&gt;Corrado Guarino&lt;/strong&gt; and his &lt;strong&gt;&lt;em&gt;orchestra&lt;/em&gt;&lt;/strong&gt; and he was member of the &lt;strong&gt;&lt;em&gt;&amp;ldquo;East Side Big Band&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; of &lt;strong&gt;Lorenzo Bianchi&lt;/strong&gt;. In the summer workshop &lt;strong&gt;&lt;em&gt;Siena Jazz&lt;/em&gt;&lt;/strong&gt; he was a pupil of &lt;strong&gt;Paolo Fresu&lt;/strong&gt; (&amp;ldquo;Trumpet&amp;rdquo;), &lt;strong&gt;Marcello Piras&lt;/strong&gt; (&amp;ldquo;Musicology&amp;rdquo;) and &lt;strong&gt;Mario Raja&lt;/strong&gt; (&amp;ldquo;Orchestra&amp;rdquo;).&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
+      <guid>http://www.nicolabernardelli.com/es/acerca/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Nicola Benedetto Bernardelli&lt;/strong&gt; inició su formación musical a los 4 años de edad: &lt;strong&gt;&lt;em&gt;“Coro con acompañamiento instrumental”&lt;/em&gt;&lt;/strong&gt;. Desde los 6 años estudió &lt;strong&gt;&lt;em&gt;guitarra clásica&lt;/em&gt;&lt;/strong&gt; con el &lt;em&gt;Maestro&lt;/em&gt; &lt;strong&gt;Alessandro Bono&lt;/strong&gt;. Fue miembro de &lt;strong&gt;&lt;em&gt;dos orquestas ganadoras de premios internacionales&lt;/em&gt;&lt;/strong&gt;, la agrupación juvenil &lt;strong&gt;&lt;em&gt;“Gioietta Paoli Padova”&lt;/em&gt;&lt;/strong&gt; y la &lt;strong&gt;“Orchestra di Musica da Camera a Pizzico Città di Brescia”&lt;/strong&gt;. Tomó clases de armonía con el &lt;em&gt;Maestro&lt;/em&gt; &lt;strong&gt;Claudio Mandonico&lt;/strong&gt;. A los 14 años comenzó a tocar &lt;strong&gt;&lt;em&gt;trompeta&lt;/em&gt;&lt;/strong&gt; y &lt;strong&gt;&lt;em&gt;flugelhorn&lt;/em&gt;&lt;/strong&gt;. Frecuentó durante dos años el &lt;strong&gt;&lt;em&gt;curso de jazz&lt;/em&gt;&lt;/strong&gt; de &lt;strong&gt;Corrado Guarino&lt;/strong&gt; y su &lt;strong&gt;&lt;em&gt;orquesta&lt;/em&gt;&lt;/strong&gt; y fue miembro de la &lt;strong&gt;&lt;em&gt;“East Side Big Band”&lt;/em&gt;&lt;/strong&gt; de &lt;strong&gt;Lorenzo Bianchi&lt;/strong&gt;. En el taller de verano &lt;strong&gt;&lt;em&gt;Siena Jazz&lt;/em&gt;&lt;/strong&gt; fue alumno de &lt;strong&gt;Paolo Fresu&lt;/strong&gt; (“Trompeta”), &lt;strong&gt;Marcello Piras&lt;/strong&gt; (“Musicología”) y &lt;strong&gt;Mario Raja&lt;/strong&gt; (“Orquesta”).&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
 
-&lt;p&gt;In Paris he trained in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Syncopated Solfeggio and Trumpet&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; with &lt;strong&gt;Andrew Crocker&lt;/strong&gt;. Then he studied and graduated in the &lt;strong&gt;&lt;em&gt;&amp;ldquo;Jazz Department of the Conservatory&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; named upon the &lt;strong&gt;&lt;em&gt;&amp;ldquo;Nadia and Lili Boulanger sisters&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; where he was pupil of &lt;strong&gt;Bernard Maury&lt;/strong&gt; (&amp;ldquo;Modal Harmony&amp;rdquo;), &lt;strong&gt;Pierre Bertrand&lt;/strong&gt; (&amp;ldquo;Arrangement&amp;rdquo;), and &lt;strong&gt;Nicolas Folmer&lt;/strong&gt; (&amp;ldquo;Trumpet&amp;rdquo;).&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;En París se capacitó en &lt;strong&gt;&lt;em&gt;“Solfeo Sincopado y Trompeta”&lt;/em&gt;&lt;/strong&gt; con &lt;strong&gt;Andrew Crocker&lt;/strong&gt;. Luego estudió y se recibió en el &lt;strong&gt;&lt;em&gt;“Departamento de Jazz del Conservatorio”&lt;/em&gt;&lt;/strong&gt; intitulado &lt;strong&gt;&lt;em&gt;“A las Hermanas Nadia y Lili Boulanger”&lt;/em&gt;&lt;/strong&gt; donde fue alumno de &lt;strong&gt;Bernard Maury&lt;/strong&gt; (“Armonía Modal”), &lt;strong&gt;Pierre Bertrand&lt;/strong&gt; (“Arreglo”), y &lt;strong&gt;Nicolas Folmer&lt;/strong&gt; (“Trompeta”).&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
 
-&lt;p&gt;He composed the soundtrack of &lt;strong&gt;&lt;em&gt;&amp;ldquo;Une trompette pour Ram&amp;oacute;n&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, short 35 mm film by &lt;strong&gt;Francisco L&amp;oacute;pez&lt;/strong&gt;, Chilean filmmaker. He was hired en various orchestras, as the one of composer and arranger &lt;strong&gt;Christophe Chassol&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Compuso la banda sonora de &lt;strong&gt;&lt;em&gt;“Une trompette pour Ramón”&lt;/em&gt;&lt;/strong&gt;, cortometraje en 35 mm de &lt;strong&gt;Francisco López&lt;/strong&gt;, realizador chileno. Fue contratado en varias orquestas, como la del compositor y arreglador &lt;strong&gt;Christophe Chassol&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
 
-&lt;p&gt;Arrived in Buenos Aires, he played among others with double bass player &lt;strong&gt;Pablo Basez&lt;/strong&gt; and piano player &lt;strong&gt;Alan Zimmerman&lt;/strong&gt;. He approached &lt;strong&gt;&lt;em&gt;slide trombon&lt;/em&gt;&lt;/strong&gt; and collaborated with the &lt;strong&gt;&lt;em&gt;jazz orchestras of &amp;ldquo;Conservatorio Alberto Ginastera&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; (Mor&amp;oacute;n) and &lt;strong&gt;&lt;em&gt;&amp;ldquo;Conservatorio Nacional Leopoldo Marechal&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; (Ramos Mej&amp;iacute;a). During three years he studied &lt;strong&gt;&lt;em&gt;&amp;ldquo;jazz trumpet improvisation&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; with the renowned trumpeter and composer &lt;strong&gt;Juan Cruz de Urquiza&lt;/strong&gt;. He himself is a &lt;strong&gt;&lt;em&gt;teacher: &amp;ldquo;Trumpet, Harmony and Syncopated Solfeggio&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Al llegar a Buenos Aires, tocó entre otros con el contrabajista &lt;strong&gt;Pablo Basez&lt;/strong&gt; y el pianista &lt;strong&gt;Alan Zimmerman&lt;/strong&gt;. Se acercó al &lt;strong&gt;&lt;em&gt;trombón a vara&lt;/em&gt;&lt;/strong&gt; y colaboró con las &lt;strong&gt;&lt;em&gt;orquestas de jazz del “Conservatorio Alberto Ginastera”&lt;/em&gt;&lt;/strong&gt; (Morón) y del &lt;strong&gt;&lt;em&gt;“Conservatorio Nacional Leopoldo Marechal”&lt;/em&gt;&lt;/strong&gt; (Ramos Mejía). Durante tres años estudió &lt;strong&gt;&lt;em&gt;“Improvisación jazz en trompeta”&lt;/em&gt;&lt;/strong&gt; con el acreditado &lt;strong&gt;Juan Cruz de Urquiza&lt;/strong&gt;. Personalmente ejerce la &lt;strong&gt;&lt;em&gt;docencia&lt;/em&gt;&lt;/strong&gt; enseñando &lt;strong&gt;&lt;em&gt;“Trompeta, Armonía y Solfeo Sincopado”&lt;/em&gt;&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
 
-&lt;p&gt;He regularly participates in the &lt;strong&gt;&lt;em&gt;&amp;ldquo;Tributo a Miles Davis y Astor Piazzolla&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; of drums player &lt;strong&gt;N&amp;eacute;stor Astarita&lt;/strong&gt;. The ensemble includes &lt;strong&gt;Pablo Tozzi&lt;/strong&gt; &lt;em&gt;(double bass)&lt;/em&gt; and &lt;strong&gt;Alejandro Kalinoski&lt;/strong&gt; &lt;em&gt;(piano)&lt;/em&gt; sometimes replaced by &lt;strong&gt;Pablo Raposo&lt;/strong&gt; or &lt;strong&gt;&amp;Aacute;ngel Sucheras&lt;/strong&gt;. With this group he performed in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Teatro de la Cova&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; in Martinez (Buenos Aires), in &lt;strong&gt;&lt;em&gt;Teatro Col&amp;oacute;n de Mar del Plata&lt;/em&gt;&lt;/strong&gt;, and in Ciudad Aut&amp;oacute;noma de Buenos Aires in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Notorius&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;&amp;ldquo;Jazz Voyeur&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;&amp;ldquo;Thelonious&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;&amp;ldquo;DAIN Usina Cultural&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Centro Cultural de la Memoria Haroldo Conti&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, and in &lt;strong&gt;&lt;em&gt;Festival Internacional de Jazz de Asunci&amp;oacute;n (Paraguay) 2013&lt;/em&gt;&lt;/strong&gt;. Sometimes &lt;strong&gt;Walter R&amp;iacute;os&lt;/strong&gt; &lt;em&gt;(bandone&amp;oacute;n)&lt;/em&gt; and &lt;strong&gt;Mariel Dupetit&lt;/strong&gt; &lt;em&gt;(vocals)&lt;/em&gt; took part.&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Participa regularmente en el &lt;strong&gt;&lt;em&gt;“Tributo a Miles Davis y Astor Piazzolla”&lt;/em&gt;&lt;/strong&gt; del baterista &lt;strong&gt;Néstor Astarita&lt;/strong&gt;. El conjunto incluye a &lt;strong&gt;Pablo Tozzi&lt;/strong&gt; &lt;em&gt;(contrabajo)&lt;/em&gt; y &lt;strong&gt;Alejandro Kalinoski&lt;/strong&gt; &lt;em&gt;(piano)&lt;/em&gt; en ocasiones reemplazado por &lt;strong&gt;Pablo Raposo&lt;/strong&gt; o &lt;strong&gt;Ángel Sucheras&lt;/strong&gt;, habiéndose presentado en el &lt;strong&gt;&lt;em&gt;“Teatro de la Cova”&lt;/em&gt;&lt;/strong&gt; en Martinez (Pcia. de Buenos Aires), en el &lt;strong&gt;&lt;em&gt;Teatro Colón de Mar del Plata&lt;/em&gt;&lt;/strong&gt;, y en Capital Federal en &lt;strong&gt;&lt;em&gt;“Notorius”&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;“Jazz Voyeur”&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;“Thelonious”&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;“DAIN Usina Cultural”&lt;/em&gt;&lt;/strong&gt;, en el &lt;strong&gt;&lt;em&gt;“Centro Cultural de la Memoria Haroldo Conti”&lt;/em&gt;&lt;/strong&gt;, y en el &lt;strong&gt;&lt;em&gt;Festival Internacional de Jazz de Asunción (Paraguay) 2013&lt;/em&gt;&lt;/strong&gt;. En ocasiones participaron &lt;strong&gt;Walter Ríos&lt;/strong&gt; &lt;em&gt;(bandoneón)&lt;/em&gt; y &lt;strong&gt;Mariel Dupetit&lt;/strong&gt; &lt;em&gt;(voz)&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
 
-&lt;p&gt;He was a regular member of the &lt;strong&gt;&lt;em&gt;&amp;ldquo;Jorge Anders Orquesta&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, with which he performed in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Notorius&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Jazz Y Pop&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;,  in &lt;strong&gt;&lt;em&gt;Hotel Sheraton Buenos Aires&lt;/em&gt;&lt;/strong&gt;, and in &lt;strong&gt;&lt;em&gt;Festival Internacional Buenos Aires JAZZ 2012&lt;/em&gt;&lt;/strong&gt;. He also performed in cuartet with &lt;strong&gt;Sebasti&amp;aacute;n Valsecchi&lt;/strong&gt; &lt;em&gt;(electrical guitar)&lt;/em&gt;, &lt;strong&gt;Daniel Maza&lt;/strong&gt; &lt;em&gt;(electric bass and vocals)&lt;/em&gt; and &lt;strong&gt;Quintino Cinalli&lt;/strong&gt; &lt;em&gt;(drums and percussions)&lt;/em&gt;.&lt;/span&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Fue miembro regular de la big band &lt;strong&gt;&lt;em&gt;“Jorge Anders Orquesta”&lt;/em&gt;&lt;/strong&gt;, con la cual actuó en &lt;strong&gt;&lt;em&gt;“Notorius”&lt;/em&gt;&lt;/strong&gt; y &lt;strong&gt;&lt;em&gt;“Jazz Y Pop”&lt;/em&gt;&lt;/strong&gt;. Asimismo, en el &lt;strong&gt;&lt;em&gt;Hotel Sheraton Buenos Aires&lt;/em&gt;&lt;/strong&gt;, además de participar en el &lt;strong&gt;&lt;em&gt;Festival Internacional Buenos Aires JAZZ 2012&lt;/em&gt;&lt;/strong&gt;. Se produjo además en cuarteto con &lt;strong&gt;Sebastián Valsecchi&lt;/strong&gt; &lt;em&gt;(guitarra eléctrica)&lt;/em&gt;, &lt;strong&gt;Daniel Maza&lt;/strong&gt; &lt;em&gt;(bajo eléctrico y voz)&lt;/em&gt; y &lt;strong&gt;Quintino Cinalli&lt;/strong&gt; &lt;em&gt;(batería y percusiones)&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
 
-&lt;p&gt;He is a member of &lt;strong&gt;&lt;em&gt;&amp;ldquo;Cuatrix&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, cuartet created by legendary double bass player &lt;strong&gt;Jorge &amp;ldquo;Negro&amp;rdquo; Gonzalez&lt;/strong&gt; who passed over in December 7&lt;sup&gt;th&lt;/sup&gt; 2013. Since December 9&lt;sup&gt;th&lt;/sup&gt; 2014 (after one year of mourning), his place has been taken by &lt;strong&gt;Pablo Motta&lt;/strong&gt;. The quartet includes &lt;strong&gt;Tom&amp;aacute;s Fraga&lt;/strong&gt; &lt;em&gt;(electric guitar)&lt;/em&gt; and &lt;strong&gt;Quintino Cinalli&lt;/strong&gt; &lt;em&gt;(drums and percussions)&lt;/em&gt;. Besides having performed regularly in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Jazz Y Pop&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;, the ensamble presented in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Teatro Amigos de Merlo&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; in Merlo (San Lu&amp;iacute;s), in &lt;strong&gt;&lt;em&gt;Festival de jazz de Berazategui 2012&lt;/em&gt;&lt;/strong&gt;, in &lt;strong&gt;Venado Tuerto&lt;/strong&gt; and &lt;strong&gt;Firmat&lt;/strong&gt; engaged by the renowned producers &lt;strong&gt;Paul Citraro&lt;/strong&gt; and &lt;strong&gt;Nacho D&amp;rsquo;Agostino&lt;/strong&gt;, in the festival &lt;strong&gt;&lt;em&gt;&amp;ldquo;Jazz Monumental&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Club Atl&amp;eacute;tico River Plate&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; for the 112&lt;sup&gt;th&lt;/sup&gt; anniversary celebration, and in &lt;strong&gt;&lt;em&gt;&amp;ldquo;Teatro San Mart&amp;iacute;n&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; in  Ciudad Aut&amp;oacute;noma de Buenos Aires on December 9&lt;sup&gt;th&lt;/sup&gt; 2014, for the first tribute to &lt;strong&gt;Jorge &amp;ldquo;Negro&amp;rdquo; Gonzalez&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;Es miembro del cuarteto &lt;strong&gt;&lt;em&gt;“Cuatrix”&lt;/em&gt;&lt;/strong&gt;, creado por el legendario contrabajista &lt;strong&gt;Jorge “Negro” Gonzalez&lt;/strong&gt; fallecido el 7/12/2013 y desde el 9/12/2014 (después de un año de duelo) reemplazado por &lt;strong&gt;Pablo Motta&lt;/strong&gt;, con &lt;strong&gt;Tomás Fraga&lt;/strong&gt; &lt;em&gt;(guitarra eléctrica)&lt;/em&gt; y &lt;strong&gt;Quintino Cinalli&lt;/strong&gt; &lt;em&gt;(batería y percusiones)&lt;/em&gt;. El conjunto, además de presentarse regularmente en el club &lt;strong&gt;&lt;em&gt;“Jazz Y Pop”&lt;/em&gt;&lt;/strong&gt;, actuó en el teatro &lt;strong&gt;&lt;em&gt;“Amigos de Merlo”&lt;/em&gt;&lt;/strong&gt; en Merlo (San Luís), en el &lt;strong&gt;&lt;em&gt;Festival de jazz de Berazategui 2012&lt;/em&gt;&lt;/strong&gt;, en &lt;strong&gt;Venado Tuerto&lt;/strong&gt; y &lt;strong&gt;Firmat&lt;/strong&gt; contratado por los reconocidos productores &lt;strong&gt;Paul Citraro&lt;/strong&gt; y &lt;strong&gt;Nacho D&amp;rsquo;Agostino&lt;/strong&gt;, en el festival &lt;strong&gt;&lt;em&gt;“Jazz Monumental”&lt;/em&gt;&lt;/strong&gt; en el &lt;strong&gt;&lt;em&gt;“Club Atlético River Plate”&lt;/em&gt;&lt;/strong&gt; en el marco del festejo por el 112º aniversario, y en el &lt;strong&gt;&lt;em&gt;“Teatro San Martín”&lt;/em&gt;&lt;/strong&gt; de la Ciudad Autónoma de Buenos Aires el 9/12/2014, en ocasión del primer homenaje a &lt;strong&gt;Jorge “Negro” Gonzalez&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
