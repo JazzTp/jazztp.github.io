@@ -66,18 +66,6 @@
     </item>
     
     <item>
-      <title>Powered by...</title>
-      <link>http://www.nicolabernardelli.com/en/powered-by/</link>
-      <pubDate>Mon, 17 Aug 2015 16:55:33 -0300</pubDate>
-      
-      <guid>http://www.nicolabernardelli.com/en/powered-by/</guid>
-      <description>&lt;p&gt;&lt;br&gt;
-&lt;table style=&#34;text-align: center;&#34;&gt;&lt;tr&gt;&lt;th colspan=&#34;2&#34; class=&#34;padded&#34;&gt;This website is powered by&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/td&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/zyro/hyde-x&#34; target=&#34;_blank&#34;&gt;Hyde-X&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;http://disqus.com&#34; target=&#34;_blank&#34;&gt;DISQUS&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/sachinchoolur/lightGallery&#34; target=&#34;_blank&#34;&gt;jQuery lightGallery&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Motorizado por...</title>
       <link>http://www.nicolabernardelli.com/es/motorizado-por/</link>
       <pubDate>Mon, 17 Aug 2015 16:55:33 -0300</pubDate>
@@ -85,6 +73,18 @@
       <guid>http://www.nicolabernardelli.com/es/motorizado-por/</guid>
       <description>&lt;p&gt;&lt;br&gt;
 &lt;table style=&#34;text-align: center;&#34;&gt;&lt;tr&gt;&lt;th colspan=&#34;2&#34; class=&#34;padded&#34;&gt;Este sitio web es motorizado por&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/td&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/zyro/hyde-x&#34; target=&#34;_blank&#34;&gt;Hyde-X&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;http://disqus.com&#34; target=&#34;_blank&#34;&gt;DISQUS&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/sachinchoolur/lightGallery&#34; target=&#34;_blank&#34;&gt;jQuery lightGallery&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Powered by...</title>
+      <link>http://www.nicolabernardelli.com/en/powered-by/</link>
+      <pubDate>Mon, 17 Aug 2015 16:55:33 -0300</pubDate>
+      
+      <guid>http://www.nicolabernardelli.com/en/powered-by/</guid>
+      <description>&lt;p&gt;&lt;br&gt;
+&lt;table style=&#34;text-align: center;&#34;&gt;&lt;tr&gt;&lt;th colspan=&#34;2&#34; class=&#34;padded&#34;&gt;This website is powered by&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/td&gt;&lt;td class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/zyro/hyde-x&#34; target=&#34;_blank&#34;&gt;Hyde-X&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;http://disqus.com&#34; target=&#34;_blank&#34;&gt;DISQUS&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&#34;2&#34; class=&#34;padded&#34;&gt;&lt;a href=&#34;https://github.com/sachinchoolur/lightGallery&#34; target=&#34;_blank&#34;&gt;jQuery lightGallery&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
