@@ -101,6 +101,22 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.sidebar-nav-social { 
+	color: #202020;
+	background-color: white;
+	font-style: italic;
+	display: inline-block;
+}
+a.sidebar-nav-social:hover,
+a.sidebar-nav-social:focus {
+	text-decoration: underline;
+}
+.sidebar-nav-social.active {
+	font-weight: bold;
+}
+
+.padded {padding-top: 1rem; padding-bottom: 1rem;}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -148,7 +164,6 @@ a.sidebar-nav-item:focus {
   padding-bottom: 2rem;
 }
 
-.padded {padding-top: 1rem; padding-bottom: 1rem;}
 
 /*
  * Reverse layout
