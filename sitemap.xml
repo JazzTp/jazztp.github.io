@@ -3,8 +3,28 @@
   
   <url>
     <loc>http://www.nicolabernardelli.com/</loc>
-    <lastmod>2015-08-18T18:17:50-03:00</lastmod>
+    <lastmod>2015-10-22T17:04:45-03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/en/post/glass-mistery-not-seen/</loc>
+    <lastmod>2015-10-22T17:04:45-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/es/post/glass-mistery-no-visto/</loc>
+    <lastmod>2015-10-22T17:04:45-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/fr/post/glass-mistery-pas-vu/</loc>
+    <lastmod>2015-10-22T17:04:45-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/it/post/glass-mistery-non-visto/</loc>
+    <lastmod>2015-10-22T17:04:45-03:00</lastmod>
   </url>
   
   <url>
@@ -58,12 +78,12 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/it/contatto/</loc>
+    <loc>http://www.nicolabernardelli.com/fr/pour-me-contacter/</loc>
     <lastmod>2015-08-17T12:39:23-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/fr/pour-me-contacter/</loc>
+    <loc>http://www.nicolabernardelli.com/it/contatto/</loc>
     <lastmod>2015-08-17T12:39:23-03:00</lastmod>
   </url>
   
@@ -98,17 +118,17 @@
   </url>
   
   <url>
+    <loc>http://www.nicolabernardelli.com/es/galeria-no-java/</loc>
+    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nicolabernardelli.com/es/galeria/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
-    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nicolabernardelli.com/es/galeria-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
