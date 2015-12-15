@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-guitarra/</loc>
+    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-trp-flug-trb/</loc>
     <lastmod>2015-12-15T10:37:14-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-trp-trb/</loc>
+    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-guitarra/</loc>
     <lastmod>2015-12-15T10:37:14-03:00</lastmod>
   </url>
   
@@ -108,17 +108,17 @@
   </url>
   
   <url>
+    <loc>http://www.nicolabernardelli.com/es/contacto/</loc>
+    <lastmod>2015-08-17T12:39:23-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nicolabernardelli.com/fr/pour-me-contacter/</loc>
     <lastmod>2015-08-17T12:39:23-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.nicolabernardelli.com/it/contatto/</loc>
-    <lastmod>2015-08-17T12:39:23-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nicolabernardelli.com/es/contacto/</loc>
     <lastmod>2015-08-17T12:39:23-03:00</lastmod>
   </url>
   
@@ -143,12 +143,12 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/en/gallery/</loc>
+    <loc>http://www.nicolabernardelli.com/en/gallery-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/en/gallery-no-java/</loc>
+    <loc>http://www.nicolabernardelli.com/en/gallery/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
@@ -159,11 +159,6 @@
   
   <url>
     <loc>http://www.nicolabernardelli.com/es/galeria/</loc>
-    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
@@ -179,6 +174,11 @@
   
   <url>
     <loc>http://www.nicolabernardelli.com/it/galleria/</loc>
+    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
