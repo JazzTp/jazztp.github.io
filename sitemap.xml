@@ -3,8 +3,28 @@
   
   <url>
     <loc>http://www.nicolabernardelli.com/</loc>
-    <lastmod>2016-02-26T10:47:40-03:00</lastmod>
+    <lastmod>2016-02-26T22:47:40-03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/en/post/Cuatrix-back-in-action/</loc>
+    <lastmod>2016-02-26T22:47:40-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/es/post/Cuatrix-vuelve-a-la-accion/</loc>
+    <lastmod>2016-02-26T22:47:40-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/fr/post/Cuatrix-de-retour-en-action/</loc>
+    <lastmod>2016-02-26T22:47:40-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/it/post/Cuatrix-torna-in-azione/</loc>
+    <lastmod>2016-02-26T22:47:40-03:00</lastmod>
   </url>
   
   <url>
@@ -33,12 +53,12 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-trp-flug-trb/</loc>
+    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-guitarra/</loc>
     <lastmod>2015-12-15T10:37:14-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-guitarra/</loc>
+    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-trp-flug-trb/</loc>
     <lastmod>2015-12-15T10:37:14-03:00</lastmod>
   </url>
   
@@ -83,12 +103,12 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/en/post/stainless-steel/</loc>
+    <loc>http://www.nicolabernardelli.com/es/post/acero-inoxidable/</loc>
     <lastmod>2015-08-18T18:17:50-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/post/acero-inoxidable/</loc>
+    <loc>http://www.nicolabernardelli.com/en/post/stainless-steel/</loc>
     <lastmod>2015-08-18T18:17:50-03:00</lastmod>
   </url>
   
@@ -163,22 +183,22 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/en/gallery/</loc>
-    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.nicolabernardelli.com/en/gallery-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/galeria/</loc>
+    <loc>http://www.nicolabernardelli.com/en/gallery/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.nicolabernardelli.com/es/galeria-no-java/</loc>
+    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/es/galeria/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
