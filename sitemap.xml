@@ -103,12 +103,12 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/post/acero-inoxidable/</loc>
+    <loc>http://www.nicolabernardelli.com/en/post/stainless-steel/</loc>
     <lastmod>2015-08-18T18:17:50-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/en/post/stainless-steel/</loc>
+    <loc>http://www.nicolabernardelli.com/es/post/acero-inoxidable/</loc>
     <lastmod>2015-08-18T18:17:50-03:00</lastmod>
   </url>
   
@@ -188,11 +188,6 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/en/gallery/</loc>
-    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.nicolabernardelli.com/es/galeria-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
@@ -203,7 +198,7 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
+    <loc>http://www.nicolabernardelli.com/en/gallery/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
@@ -213,12 +208,17 @@
   </url>
   
   <url>
+    <loc>http://www.nicolabernardelli.com/it/galleria/</loc>
+    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nicolabernardelli.com/it/galleria-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/it/galleria/</loc>
+    <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
