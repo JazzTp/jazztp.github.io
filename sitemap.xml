@@ -3,8 +3,28 @@
   
   <url>
     <loc>http://www.nicolabernardelli.com/</loc>
-    <lastmod>2016-04-17T13:58:32-03:00</lastmod>
+    <lastmod>2016-05-04T02:37:10-03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/en/post/2016-03-30-live/</loc>
+    <lastmod>2016-05-04T02:37:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/es/post/2016-03-30-en-concierto/</loc>
+    <lastmod>2016-05-04T02:37:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/fr/post/2016-03-30-en-concert/</loc>
+    <lastmod>2016-05-04T02:37:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/it/post/2016-03-30-in-concerto/</loc>
+    <lastmod>2016-05-04T02:37:10-03:00</lastmod>
   </url>
   
   <url>
@@ -68,17 +88,17 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-ensamble/</loc>
-    <lastmod>2015-12-15T10:37:14-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-guitarra/</loc>
     <lastmod>2015-12-15T10:37:14-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-trp-flug-trb/</loc>
+    <lastmod>2015-12-15T10:37:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-ensamble/</loc>
     <lastmod>2015-12-15T10:37:14-03:00</lastmod>
   </url>
   
@@ -203,17 +223,12 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/en/gallery/</loc>
-    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.nicolabernardelli.com/en/gallery-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/galeria-no-java/</loc>
+    <loc>http://www.nicolabernardelli.com/en/gallery/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
@@ -223,12 +238,17 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
+    <loc>http://www.nicolabernardelli.com/es/galeria-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.nicolabernardelli.com/fr/galerie/</loc>
+    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
