@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://www.nicolabernardelli.com/</loc>
-    <lastmod>2016-05-04T02:37:10-03:00</lastmod>
+    <lastmod>2017-01-22T14:18:20-03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/es/calendario-ensamble-a/</loc>
+    <lastmod>2017-01-22T14:18:20-03:00</lastmod>
   </url>
   
   <url>
@@ -88,17 +93,17 @@
   </url>
   
   <url>
+    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-ensamble/</loc>
+    <lastmod>2015-12-15T10:37:14-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-guitarra/</loc>
     <lastmod>2015-12-15T10:37:14-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-trp-flug-trb/</loc>
-    <lastmod>2015-12-15T10:37:14-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.nicolabernardelli.com/es/bienvenida-qrcode-ensamble/</loc>
     <lastmod>2015-12-15T10:37:14-03:00</lastmod>
   </url>
   
@@ -223,17 +228,12 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/en/gallery-no-java/</loc>
-    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.nicolabernardelli.com/en/gallery/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/es/galeria/</loc>
+    <loc>http://www.nicolabernardelli.com/en/gallery-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
@@ -243,12 +243,17 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/fr/galerie/</loc>
+    <loc>http://www.nicolabernardelli.com/es/galeria/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
+    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/fr/galerie/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
