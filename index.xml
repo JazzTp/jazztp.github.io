@@ -18,46 +18,63 @@
       <description>
 
 &lt;p&gt;&lt;br&gt;
-&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?title=Ensamble%20A%3A%20opciones%20d%C3%ADa-horario%2C%20ensayos%2C%20presentaciones.&amp;amp;mode=WEEK&amp;amp;height=600&amp;amp;wkst=2&amp;amp;hl=es&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=4j7gt6e5fhi886su77nvqi3qu4%40group.calendar.google.com&amp;amp;color=%232F6309&amp;amp;src=i2mv08nqrt5p862b3h1ssll9jc%40group.calendar.google.com&amp;amp;color=%23711616&amp;amp;ctz=America%2FArgentina%2FBuenos_Aires&#34; style=&#34;border:solid 1px #777&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
+&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?title=Ensamble%20A%3A%20opciones%20d%C3%ADa-horario%2C%20ensayos%2C%20presentaciones&amp;amp;mode=WEEK&amp;amp;height=600&amp;amp;wkst=2&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=9cep8180o42g5iftob3omp9gjc%40group.calendar.google.com&amp;amp;color=%23182C57&amp;amp;src=tdl686qq04d7h0flmq40fd7268%40group.calendar.google.com&amp;amp;color=%23865A5A&amp;amp;src=beomcsohdmmsmknqpkjp8dc6mc%40group.calendar.google.com&amp;amp;color=%2342104A&amp;amp;src=hvbm10d45t42eaumghrmq91n5k%40group.calendar.google.com&amp;amp;color=%23AB8B00&amp;amp;src=399dofi5i0av44k3bbi10asc00%40group.calendar.google.com&amp;amp;color=%238C500B&amp;amp;src=3lpu4kmf7dd6l458flaml5e060%40group.calendar.google.com&amp;amp;color=%238D6F47&amp;amp;src=hg.etc81%40gmail.com&amp;amp;color=%2323164E&amp;amp;src=martinghiglione2005%40gmail.com&amp;amp;color=%23853104&amp;amp;src=2sih3um3qijc92apeqml8mr91k%40group.calendar.google.com&amp;amp;color=%236B3304&amp;amp;src=i2mv08nqrt5p862b3h1ssll9jc%40group.calendar.google.com&amp;amp;color=%23711616&amp;amp;src=96e9jrgqo7hhr667tsi1btnm10%40group.calendar.google.com&amp;amp;color=%23B1365F&amp;amp;src=4j7gt6e5fhi886su77nvqi3qu4%40group.calendar.google.com&amp;amp;color=%23125A12&amp;amp;ctz=America%2FArgentina%2FBuenos_Aires&#34; style=&#34;border:solid 1px #777&#34; width=&#34;900&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;br&gt;
 Utilicemos este calendario, &lt;strong&gt;todavía experimental&lt;/strong&gt;, para compartir opciones día-horario para los compromisos del &lt;strong&gt;&lt;em&gt;ensamble A&lt;/em&gt;&lt;/strong&gt; (ya le vamos a encontrar un nombre).&lt;/p&gt;
 
 &lt;p&gt;Por ahora son ensayos, pero en algún momento también tendremos presentaciones, en este calendario compartido, si trabajamos bien.&lt;/p&gt;
 
-&lt;h2 id=&#34;como-funciona:f170a3c1b71e7b9871c25ec0cfd2c3de&#34;&gt;Como funciona:&lt;/h2&gt;
+&lt;p&gt;Lamentablemente acá no puedo activar una vista gráfica &amp;ldquo;día&amp;rdquo;, tendremos que escoger el momento mejor para todos usando la vista &amp;ldquo;semana&amp;rdquo; o la vista &amp;ldquo;agenda&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;Cada músico crea &lt;strong&gt;un calendario&lt;/strong&gt; en su cuenta &lt;em&gt;GMail&lt;/em&gt;, con &lt;em&gt;Google Calendar&lt;/em&gt; (o uno más, si ya tiene otros):&lt;/p&gt;
+&lt;p&gt;Esperaba encontrar un calendario de grupo que permitiera colocar opciones para encuentros y que calculara automáticamente en cuales momentos se daría la mayor comodidad posible para todos los miembros. (También, que limitara lo que cada miembro pueda editar a su proprio calendario de opciones, para evitar arrastres accidentales de eventos de otros miembros.) Me sorprendió mucho el hecho de no encontrar nada listo para un problema tan común, pero no pienso por ahora ponerme yo mismo a realizar tal aplicación (aunque quizás pueda surgir un dinero de eso jajaja).&lt;/p&gt;
+
+&lt;h2 id=&#34;como-funciona:f170a3c1b71e7b9871c25ec0cfd2c3de&#34;&gt;Como funciona&lt;/h2&gt;
+
+&lt;p&gt;Agregué &lt;em&gt;unas cuantas&lt;/em&gt; líneas a este texto a pocos días de publicarlo en su primera versión, para esclarecer estas instrucciones, después de ver como algunos de los músicos las habían entendido.&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cada músico crea un calendario&lt;/strong&gt; en su cuenta &lt;em&gt;GMail&lt;/em&gt;, con &lt;em&gt;Google Calendar&lt;/em&gt; (o un calendario más, si ya tiene otros):&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;con nombre del tipo &lt;strong&gt;&lt;em&gt;Jorge M opciones ensamble A&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;condivisión: &lt;strong&gt;público&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;me lo comparte para sola lectura pero &lt;strong&gt;con detalles visibles&lt;/strong&gt;, al mail que aparece en &lt;a href=&#34;http://www.nicolabernardelli.com/es/contacto/#content&#34;&gt;&lt;strong&gt;mi página de contacto&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;nombre del calendario, sin comillas, del tipo:&lt;br&gt;&lt;strong&gt;&lt;em&gt;Ensamble A Jorge M opciones&lt;/em&gt;&lt;/strong&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;condivisión: &lt;strong&gt;público&lt;/strong&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;en los seteos del calendario, pone que &lt;u&gt;lo comparte&lt;/u&gt; para sola lectura pero &lt;strong&gt;con detalles visibles&lt;/strong&gt;, &lt;u&gt;a la cuenta asociada al mail que aparece en &lt;a href=&#34;http://www.nicolabernardelli.com/es/contacto/#content&#34;&gt;&lt;strong&gt;mi página de contacto&lt;/strong&gt;&lt;/a&gt;&lt;/u&gt;, porque es de &lt;u&gt;&lt;strong&gt;&lt;em&gt;esa&lt;/em&gt;&lt;/strong&gt;&lt;/u&gt; cuenta que salgo a esta página web;&lt;br&gt;
+no se trata de enviarme ningún &lt;em&gt;link&lt;/em&gt; por mail, es necesario y suficiente poner en los seteos del calendario esa dirección mía de e-mail como destino del compartir, con eso veo su calendario adentro del mío y puedo compartir ambos en esta página web;&lt;br&gt;
+hecho una vez, ya está, cada músico puede después modificar sus eventos según como vayan evolucionando sus compromisos, y eso se va a ver reflejado en la suma de calendarios que aparece en esta página web;&lt;br&gt;
+como escribí arriba, esto es experimental, ojalá no aparezcan problemas al sumar acá todos nuestros calendarios&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Después de definirlo como público, le pone lo que acá recomiendo y &lt;strong&gt;nada más&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;En su calendario de opciones, cada músico pone lo que acá recomiendo, nada menos y nada más&lt;/strong&gt;: el contenido del calendario es &lt;strong&gt;público (!)&lt;/strong&gt; sin importar los seteos que yo podría poner en mi sitio web, y sujeto a escaneo de los motores de búsqueda.&lt;/p&gt;
 
-&lt;p&gt;En cada día y horarios donde le sea posible un ensayo (no en las mañanas y tardes de lunes a viernes porque ya sabemos que para varios de los músicos de este ensamble es imposible), crea un &lt;strong&gt;evento con nombre que comience con un número de 1 a 5&lt;/strong&gt;, por ejemplo:&lt;/p&gt;
+&lt;p&gt;En cada día y horarios donde le sea posible un ensayo (no en las mañanas y tardes de lunes a viernes porque ya sabemos que para varios de los músicos de este ensamble es imposible), crea &lt;u&gt;un &lt;strong&gt;evento con nombre que comience con un número de 1 a 5&lt;/strong&gt;, sin comillas, del tipo:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;5 Jorge M&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;5 Jorge M&lt;/em&gt;&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
 
 &lt;p&gt;El mismo número se puede repetir en cuantos eventos necesiten.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;5&lt;/strong&gt; califica los momentos ideales para el ensayo&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;4&lt;/strong&gt; califica momentos un poco menos cómodos&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;3&lt;/strong&gt; califica momentos aún menos cómodos&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2&lt;/strong&gt; califica momentos que aún muy incómodos son seguramente viables&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1&lt;/strong&gt; califica momentos que no son necesariamente incómodos, pero son sujetos a confirmación, algo como &amp;ldquo;tendría que verlo&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4&lt;/strong&gt; califica momentos menos cómodos, pero seguramente viables&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3&lt;/strong&gt; califica momentos aún menos cómodos, pero seguramente viables&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2&lt;/strong&gt; &amp;ldquo;tendría que verlo pero hay buenas posibilidades que me pueda liberar&amp;rdquo;, o sea califica momentos que no son necesariamente incómodos, pero son sujetos a confirmación, con buenas posibilidades que uno se pueda liberar de otros compromisos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1&lt;/strong&gt; &amp;ldquo;tendría que verlo y hay chances que no llegue a liberarme&amp;rdquo;, o sea califica momentos que no son necesariamente incómodos, pero son sujetos a confirmación, y existe la posibilidad que uno no se pueda liberar de otros compromisos importantes&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Donde no hay nada, quiere decir &amp;ldquo;imposible&amp;rdquo; o &amp;ldquo;sin especificar porque se sabe que es imposible para otros&amp;rdquo; (es inútil saturar visualmente el calendario con opciones que sabemos imposibles para otros).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Al crear el evento, eligen &amp;ldquo;editar&amp;rdquo; y ahí &lt;u&gt;setean a cual de sus calendarios pertenece el evento, &lt;em&gt;no&lt;/em&gt; al calendario por defecto sino al calendario &amp;ldquo;Ensamble A etc.&amp;rdquo;&lt;/u&gt;.&lt;br&gt;
+Al editarlo, también pueden activar la &lt;u&gt;repetición automática&lt;/u&gt; del evento, típicamente semanal, e inclusive (por lo menos desde interfaz web) pueden establecer que se repite en varios días de la semana.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(Recuerden que hay que tomar en cuenta el tiempo necesario para desplazarse, también.)&lt;/p&gt;
+
+&lt;p&gt;Donde no hay nada, quiere decir &amp;ldquo;imposible para mi&amp;rdquo; o &amp;ldquo;sin especificar porque se sabe que es imposible para otros&amp;rdquo; (es inútil saturar visualmente el calendario con opciones que sabemos imposibles para otros).&lt;/p&gt;
 
 &lt;p&gt;Repito, &lt;strong&gt;las mañanas y tardes de lunes a viernes son imposibles para varios de los músicos de este ensamble&lt;/strong&gt; (ahí yo tendría algunos 5 y 4).&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;En otras frangias de horario, vayan poniendo &lt;em&gt;todas&lt;/em&gt; sus opciones, no se limiten a coincidir con opciones de personas que ya agregaron las suyas.&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Mis alumnos también pongan el horario de sus clases individuales como opción para el ensamble, eventualmente vamos a reubicar las clases si ese horario sirviera para el ensamble.&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;Al momento de crear un evento (o después), eligen editarlo y podrán con facilidad definirlo como evento repetido semanalmente o cada día.&lt;/p&gt;
 
-&lt;p&gt;Con todos los calendarios de los miembros del ensamble, vamos a saber si podemos definir un día y horario de ensayo, el mejor posible, cada semana o cada dos semanas o con la frecuencia que decidamos.&lt;/p&gt;
+&lt;p&gt;Con los calendarios de opciones de todos los miembros del ensamble, vamos a saber si podemos definir un día y horario de ensayo, el mejor posible, cada semana o cada dos semanas o con la frecuencia que decidamos.&lt;/p&gt;
 
 &lt;p&gt;Cuando alguien tenga un problema puntual, &lt;strong&gt;cuanto antes posible después de enterarse&lt;/strong&gt;, modifica en esa semana sus opciones y avisa en nuestro grupo Whatsapp &amp;ldquo;tengo un problema en tal semana, vean el calendario por favor&amp;rdquo;. Ahí nos fijamos si podemos encontrar otra opción viable y cambiar la reservación de la sala, o si decidimos que nos sirve ensayar aunque falte la persona, o si salteamos el ensayo.&lt;/p&gt;
 
@@ -65,7 +82,7 @@ Utilicemos este calendario, &lt;strong&gt;todavía experimental&lt;/strong&gt;, 
 
 &lt;h2 id=&#34;links:f170a3c1b71e7b9871c25ec0cfd2c3de&#34;&gt;Links&lt;/h2&gt;
 
-&lt;p&gt;No hay por ahora material grabado por este ensamble, lo estamos rearmando recién ahora enero - febrero 2017.&lt;/p&gt;
+&lt;p&gt;No hay por ahora material grabado por este ensamble, lo estamos rearmando recién ahora marzo 2017.&lt;/p&gt;
 
 &lt;p&gt;Acá va de nuevo &lt;a href=&#34;http://www.nicolabernardelli.com/es/contacto/#content&#34;&gt;&lt;strong&gt;mi página de contacto&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
