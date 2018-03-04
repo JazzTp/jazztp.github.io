@@ -3,8 +3,28 @@
   
   <url>
     <loc>http://www.nicolabernardelli.com/</loc>
-    <lastmod>2017-01-22T14:18:20-03:00</lastmod>
+    <lastmod>2018-03-04T17:30:20-03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/en/post/four-fridays-for-jorge/</loc>
+    <lastmod>2018-03-04T17:30:20-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/es/post/cuatro-viernes-para-jorge/</loc>
+    <lastmod>2018-03-04T17:30:20-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/fr/post/quatre-vendredis-pour-jorge/</loc>
+    <lastmod>2018-03-04T17:30:20-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/it/post/quattro-venerdi-per-jorge/</loc>
+    <lastmod>2018-03-04T17:30:20-03:00</lastmod>
   </url>
   
   <url>
@@ -248,22 +268,22 @@
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
-    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.nicolabernardelli.com/fr/galerie/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nicolabernardelli.com/it/galleria/</loc>
+    <loc>http://www.nicolabernardelli.com/fr/galerie-no-java/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.nicolabernardelli.com/it/galleria-no-java/</loc>
+    <lastmod>2015-08-15T14:12:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nicolabernardelli.com/it/galleria/</loc>
     <lastmod>2015-08-15T14:12:48-03:00</lastmod>
   </url>
   
